@@ -1,0 +1,1 @@
+Este é um projeto simples e educativo desenvolvido exclusivamente para praticar e consolidar conceitos básicos de Programação Orientada a Objetos (POO) em Java. O foco está na aplicação dos pilares fundamentais da POO através de um sistema de gerenciamento de animais.
